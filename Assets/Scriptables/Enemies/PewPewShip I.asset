@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e8738540685feb49b05750db04b3ef1, type: 3}
+  m_Name: PewPewShip I
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: dab67128a02f7544b987215f22a97345, type: 3}
+  points: 10
+  hitPoints: 1
+  speed: 4
+  enemyPrefab: {fileID: 131812059647817787, guid: 806081beb03a0274fa743a7598a84c13, type: 3}
+  enemyLaser: {fileID: 8680669287846967561, guid: a910026961576834b9b13912c67246a0, type: 3}
+  isMotherShip: 0
