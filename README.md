@@ -1,6 +1,6 @@
 # Totally Not Space Invaders
 
-There are 4 levels in total. You win by destroying all mother ships (big ones).
+There are 4 levels in total. You win by destroying all mother ships (big ships).
 Be prepared for a lot of lasers coming towards you :D
 
 Controls:
