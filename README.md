@@ -1,5 +1,4 @@
-# tnsi
-Totally Not Space Invaders
+# Totally Not Space Invaders
 
 There are 4 levels in total. You win by destroying all mother ships (big ones).
 Be prepared for a lot of lasers coming towards you :D
